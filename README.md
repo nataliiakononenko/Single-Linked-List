@@ -17,4 +17,3 @@ Functions:
 13) delete the whole list and print out the number of deleted elements;
 14) find the biggest value in the list;
 15) find the smallest value in the list;
-0) exit.
