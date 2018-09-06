@@ -1,5 +1,5 @@
 # SingleLinkedList
-Simple linked list in java. The program bases in classes “Node” and “SingleLinkedList”.
+Simple linked list in java. The program's functionality bases in classes “Node” and “SingleLinkedList”.
 Program’s functions are implemented as methods in the “SingleLinkedList” class.
 Functions:
 1) delete the first element in the list;
